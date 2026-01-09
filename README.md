@@ -6,6 +6,8 @@
 
 Este projeto é um Dashboard de Performance de Marketing e Vendas desenvolvido para a **TechSolutions**. O objetivo é transformar dados brutos de CRM e Ads em insights acionáveis, focando na redução do Custo de Aquisição de Clientes (CAC) e no aumento do Retorno sobre Investimento (ROI).
 
+Link para ter uma prévia do Dashboard antes de clonar o repositório: https://projeto-growth-analytics.streamlit.app/
+
 ---
 
 ## 🚀 Como Executar o Projeto
@@ -48,19 +50,19 @@ streamlit run app.py
 
 O dashboard oferece uma visão 360º da jornada de crescimento:
 
-### - KPIs de Negócio: 
+** - KPIs de Negócio: **
     Monitoramento em tempo real de Leads, Conversão, Vendas, Receita Total e Ticket Médio.
 
-### - Funil de Vendas Reativo:
+** - Funil de Vendas Reativo:**
     Visualização das etapas (Novo -> Qualificado -> Negociação -> Fechado) com taxas de quebra entre fases.
 
-### - Evolução Mensal: 
+** - Evolução Mensal: **
     Gráfico de tendência temporal para identificar sazonalidade e crescimento do volume de entrada.
 
-### - Performance por Canal (ROI/CAC): 
+**- Performance por Canal (ROI/CAC): **
     Comparação direta entre Google Ads, Meta Ads, LinkedIn e Orgânico para identificar onde o capital é mais eficiente.
 
-### - Exportação de Relatórios: 
+** - Exportação de Relatórios: **
     Ferramenta integrada para baixar a tabela de eficiência filtrada em formato CSV para apresentações executivas.
 
 ## 🛠️ Tecnologias Utilizadas
